@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #F1FFFA;
+}
+
+
+.top {
+    background-color: #93B7BE;
+    width: 100%;
+    height: 60vh;
+}
+.midSection {
+    width: 80%;
+    margin: auto;
+}
+
+.topBarNav {
+    margin: 0;
+}
+.form {
+    background: #F1FFFA;
+    padding: 10px 10% 120px 10%;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+.destinationInput {
+    float: left;
+
+}
+
+.dateInput {
+    float: left;
+}
+
+.passengerInput {
+    float: right;
+}
+
+.form input {
+    width: 100px;
+    border: none;
+    background: lightgrey;
+    margin-bottom: 7px;
+    border-radius: 3px;
+
+}
+.label h1{
+    color: #785964;
+    margin-left: 80px;
+    font-size: 70px;
+}
+
+ .inputs {
+     width: 33%;
+ }
+.images img {
+    width: 20%;
+
+}
+
+.bottom {
+    margin-top: 100px;
+}
+
+
+
+
+
+
