@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #98C3C3;
+}
+
+.topHome {
+    background-color: #305252;
+    width: 100%;
+    height: 60vh;
+}
+.midHome {
+    width: 80%;
+    margin: auto;
+}
+
+.topBarNav {
+    margin: 0;
+}
+
+.nav-link {
+    color: #DB5461!important;
+    font-weight: bold;
+}
+
+.formFlight {
+    background: #98C3C3;
+    padding: 10px 10% 120px 10%;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+.destinationInput {
+    float: left;
+
+}
+
+.dateInput {
+    float: left;
+}
+
+.passengerInput {
+    float: right;
+}
+
+.formHome input {
+    width: 100px;
+    border: none;
+    background: lightgrey;
+    margin-bottom: 7px;
+    border-radius: 3px;
+
+}
+.label h1{
+    color: #DB5461;
+    margin-left: 80px;
+    font-size: 70px;
+}
+
+ .inputs {
+     width: 33%;
+ }
+.images img {
+    width: 20%;
+
+}
+
+.bottomHome {
+    margin-top: 100px;
+}
+
+.nav-item {
+    text-align: right;
+}
+
+.topLogin {
+    background-color: #305252;
+    width: 100%;
+    height: 55px;
+}
+
+.midLogin {
+    clear: both;
+    padding-top: 10%;
+    text-align: center;
+}
+
+.userData label {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.formLogin button {
+    margin-top: 10px;
+}
+
+.formLogin {
+    padding: 20px;
+    background: #D8E8E8;
+    border: 3px #305252 solid;
+    border-radius: 10px;
+}
+
+.backgroundLogin {
+    background: linear-gradient(#305252, #F1FFFA);
+}
+
+
+
+
+
+
+
